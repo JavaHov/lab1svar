@@ -1,1 +1,6 @@
 1. Man vill inte ha .exe-filer eller packeterade filer (rar, zip iso)
+
+2. En applikationsserver tillhandahåller mer avancerad logik än en
+webbserver, via olika protokoll samt avancerade användargränssnitt.
+Applikationsservern hanterar sina egna resurser som säkerhet, 
+distribution av multithreading och felhanteringstekniker.
