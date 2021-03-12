@@ -1,0 +1,1 @@
+1. Man vill inte ha .exe-filer eller packeterade filer (rar, zip iso)
