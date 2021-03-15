@@ -1,0 +1,13 @@
+Andreas Cabraja
+
+Gitignore bör innehålla bl.a: targetmappen, IDE-specifika filer och mappar såsom .idea, /nbbuild/ och inställningsfiler.
+
+En applikationsserver är en server som kan hosta applikationer. Vi använder oss av applikationsservrar för att kunna köra våra program på nätet. 
+
+Parametrar jag skulle kolla på inkluderar: 
+
+Om det går att aktivera dark mode
+Vilka kortkommandon som stöds
+Hur formatteringen av text sköts
+Vilka plugins som kan installeras i IDE:n
+Hur snabb IDE:n är
